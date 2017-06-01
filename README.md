@@ -3,4 +3,4 @@ This repository aims at helping people start practically with deep learning with
 
 ## Framework
 
-The framework used is [Torch](https://github.com/torch). Torch is a framework in Lua.
+The framework used is [Torch](https://github.com/torch/torch7). Torch is a framework in Lua.
